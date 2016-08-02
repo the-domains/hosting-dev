@@ -1,0 +1,14 @@
+layout_spectrum: 0.05154732731170952
+typography_spectrum: 0.5248512383550406
+color:
+  brandStrength: 0.9029837870039046
+  lightness: 0.681949858320877
+  saturation: 0.731203337199986
+  rhythmicContrast: 0.7447402987163514
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: hosting dev
